@@ -1,3 +1,13 @@
-html {
-    color: blue;
+h1 {
+    font-size: 50px;
+    text-align: center;
+    
 }
+.foo img{
+    box-shadow: 3px 3px 6px 2px grey;
+    
+    border-radius:120%;
+    border-size: 50px;
+}
+
+
