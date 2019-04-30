@@ -1,12 +1,35 @@
 h1 {
-    font-size: 50px;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+h2 {
+    font-size: 110px;
     text-align: center;
     
 }
 .foo img{
     box-shadow: 3px 3px 6px 2px grey;
-    
     border-radius:120%;
+    border-size: 50px;
+}
+.sat img{
+    box-shadow: 3px 3px 6px 2px grey;
+    border-radius:90%;
+    border-size: 50px;
+    margin-left: 150px;
+    height: 900px;
+}
+.next {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ear img{
+    box-shadow: 3px 3px 6px 2px grey;
+    
+    border-radius:10%;
     border-size: 50px;
 }
 
