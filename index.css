@@ -7,7 +7,10 @@ h1 {
 h2 {
     font-size: 110px;
     text-align: center;
-    
+}
+h3 {
+    font-size: 40px;
+    text-align: center;
 }
 .foo img{
     box-shadow: 3px 3px 6px 2px grey;
@@ -20,6 +23,12 @@ h2 {
     border-size: 50px;
     margin-left: 150px;
     height: 900px;
+}
+.end {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: -75px;
 }
 .next {
     display: flex;
